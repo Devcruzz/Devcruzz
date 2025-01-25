@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Levi Cruz and I'm a young developer, from fortaleza.</h2>
+<h2 align="left">Hi 👋! My name is Levi Cruz and I'm a young developer from fortaleza.</h2>
 
 ### 🌟 About me:
 - 📍 I live in **Fortaleza**, Ceará, Brazil.  
