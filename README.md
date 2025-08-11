@@ -3,7 +3,7 @@
 ### 🌟 About me:
 - 📍 I live in **Fortaleza**, Ceará, Brazil.  
 - 🎓 **Computer Networking** student.  
-- 🔞 I'm **17 years old**.  
+- 🔞 I'm **18 years old**.  
 - 🚀 Passionate about technology, programming, and lifelong learning!  
 
 <div align="center">
